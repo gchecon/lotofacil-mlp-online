@@ -17,11 +17,7 @@ data/*.xlsx
 data/*.xls
 data/*.csv
 
-# Artefatos de treino
-outputs/*.pt
-outputs/*.csv
-outputs/*.json
-outputs/*.png
+# Artefatos de treino intermediários (remover esta seção para commitar resultados finais)
 
 # IDEs
 .idea/
