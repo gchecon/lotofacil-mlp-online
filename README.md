@@ -1,5 +1,7 @@
 # Lotofácil — MLP Online Prequencial
 
+[![GitHub](https://img.shields.io/badge/GitHub-gchecon%2Flotofacil--mlp--online-blue?logo=github)](https://github.com/gchecon/lotofacil-mlp-online)
+
 Experimento exploratório: rede neural (MLP) treinada de forma **incremental, sorteio a sorteio**, sobre o histórico de sorteios da Lotofácil (15 números de 1–25), com entrada enriquecida por features heurísticas clássicas.
 
 > **Premissa:** se os sorteios forem i.i.d., não existe dependência temporal a ser aprendida. O projeto serve para testar essa hipótese e demonstrar a diferença entre padrão real e padrão percebido.
