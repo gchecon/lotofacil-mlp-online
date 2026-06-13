@@ -117,9 +117,9 @@ python -m src.train_online --data data/sorteios.csv --output outputs/
 
 ## Roadmap
 
-- [ ] `data_loader.py` — leitura + validação (15 únicos, 1-25)
-- [ ] `features.py` — 6 features + normalizações + estado de atraso
-- [ ] `model.py` — MLP configurável (dims como parâmetro)
-- [ ] `train_online.py` — loop prequencial + registro de acertos
-- [ ] `baseline.py` — baseline hipergeométrica + comparação automática
-- [ ] Análise final: distribuição dos pesos de entrada pós-treino
+- [x] `data_loader.py` — leitura + validação (15 únicos, 1-25)
+- [x] `features.py` — 6 features + normalizações + estado de atraso
+- [x] `model.py` — MLP configurável (dims como parâmetro)
+- [x] `train_online.py` — loop prequencial + registro de acertos
+- [x] `baseline.py` — baseline hipergeométrica + comparação automática
+- [x] Análise final: distribuição dos pesos de entrada pós-treino
