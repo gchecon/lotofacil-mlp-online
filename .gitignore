@@ -1,0 +1,33 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Dados brutos
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Artefatos de treino
+outputs/*.pt
+outputs/*.csv
+outputs/*.json
+outputs/*.png
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
