@@ -1,5 +1,7 @@
 # Lotofácil — Heurísticas + MLP Online (projeto exploratório)
 
+**Repositório:** https://github.com/gchecon/lotofacil-mlp-online
+
 ## Visão geral
 
 Rede neural (MLP) treinada de forma **online** (incremental, sorteio a sorteio) sobre o histórico de sorteios da Lotofácil (15 números de 1-25), com entrada enriquecida por features heurísticas clássicas de apostador (atraso, soma, paridade, primos, sequências consecutivas).
